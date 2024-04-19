@@ -9,3 +9,6 @@ This repository hosts an end-to-end machine learning project demonstrating a com
 - **Model Training:** Provides a robust framework for training models.
 - **Prediction Pipeline:** Allows for making predictions with the trained model.
 - **Training Pipeline:** Fully automated pipeline from data ingestion to model training.
+
+
+AWS Deployment
